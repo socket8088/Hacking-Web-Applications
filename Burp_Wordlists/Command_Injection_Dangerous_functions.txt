@@ -1,0 +1,44 @@
+Java
+    Runtime.exec()
+    getParameter
+    getRuntime.exec()
+    ProcessBuilder.start()
+    setAttribute putValue getValue
+    java.net.Socket java.io.fileInputStream java.io.FileReader
+
+C/C++
+    system
+    exec
+    ShellExecute
+    execlp
+
+Python
+    exec
+    eval
+    os.system
+    os.popen
+    subprocess.popen
+    subprocess.call
+
+PHP
+    system
+    shell_exec
+    exec
+    proc_open
+    eval
+    passthru
+    proc_open
+    expect_open
+    ssh2_exec
+    popen
+
+Perl
+    CGI.pm
+    referer
+    cookie
+    ReadParse
+
+ASP.NET
+    HttpRequest.Params
+    HttpRequest.Url
+    HttpRequest.Item
